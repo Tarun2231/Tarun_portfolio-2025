@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Tarun_portfolio-2025/static/css/main.f0b7907b.css",
-    "main.js": "/Tarun_portfolio-2025/static/js/main.77d54a4a.js",
+    "main.js": "/Tarun_portfolio-2025/static/js/main.703d66cf.js",
     "index.html": "/Tarun_portfolio-2025/index.html",
     "main.f0b7907b.css.map": "/Tarun_portfolio-2025/static/css/main.f0b7907b.css.map",
-    "main.77d54a4a.js.map": "/Tarun_portfolio-2025/static/js/main.77d54a4a.js.map"
+    "main.703d66cf.js.map": "/Tarun_portfolio-2025/static/js/main.703d66cf.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b7907b.css",
-    "static/js/main.77d54a4a.js"
+    "static/js/main.703d66cf.js"
   ]
 }
